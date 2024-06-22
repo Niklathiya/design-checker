@@ -12,7 +12,9 @@ import Frontolive from "./images/front-olive.jpg"
 import Frontroyalblue from "./images/front-royal-blue.jpg"
 import Frontsagegreen from "./images/front-sage-green.jpg"
 import Frontwhite from "./images/front-white.jpg"
+import Frontgrey from "./images/front-grey.jpg"
+import Frontpeach from "./images/front-peach.jpg"
 
 export const image = {
-    Frontwhite,Frontbiege,Frontmaroon,Frontmintgreen,Frontblack,Frontolive,Frontroyalblue,Frontsagegreen,Frontcoffee,Frontcyan,Frontelectricblue,Frontgreen,Frontlavender,Frontlimeyellow
+    Frontwhite,Frontbiege,Frontmaroon,Frontmintgreen,Frontblack,Frontolive,Frontroyalblue,Frontsagegreen,Frontcoffee,Frontcyan,Frontelectricblue,Frontgreen,Frontlavender,Frontlimeyellow,Frontgrey,Frontpeach
 }

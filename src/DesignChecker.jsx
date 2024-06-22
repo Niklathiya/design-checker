@@ -18,6 +18,8 @@ const DesignChecker = () => {
         {tshirt_img: IMAGE.Frontroyalblue},
         {tshirt_img: IMAGE.Frontsagegreen},
         {tshirt_img: IMAGE.Frontwhite},
+        {tshirt_img: IMAGE.Frontgrey},
+        {tshirt_img: IMAGE.Frontpeach},
     ]
     const [uploadedImage, setUploadedImage] = useState(null);
     const [overlaySize, setOverlaySize] = useState(30);
